@@ -20,7 +20,7 @@ int main(){
     cin >> mhs.nama;
     cout << "Masukkan Alamat = ";
     cin >> mhs.alamat;
-
+    
 cout << endl;
 cout << "Data Mahasiswa" << endl;
 
