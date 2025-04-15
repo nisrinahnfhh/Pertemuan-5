@@ -14,4 +14,10 @@ struct mahasiswa{
 
 int main(){
     mahasiswa mhs;
+
+    cout << "Masukkan NIM = ";
+    cin >> mhs.nim;
+    cout << "Masukkan Nama = ";
+    cin >> mhs.nama;
+    getline(cin, mhs.nama);
     
