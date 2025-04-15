@@ -12,7 +12,7 @@ int main(){
     cout << "Skor ke 3 = " << skor[2] << endl;
     //mengisi array pada lokasi/index tertentu
     skor[2] = 25;
-    cout << "Skopr ke 3 = " << skor [2] << endl;
+    cout << "Skor ke 3 = " << skor [2] << endl;
 
     //mengisi array dengan loop for 
     for(int i = 0; i < 3; i++){
